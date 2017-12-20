@@ -1,0 +1,13 @@
+﻿  Log.cpp
+  window.cpp
+c:\dev\c++projects\gameengine\haydng\gameengine\src\graphics\window.cpp(19): error C2664: 'void HayEngine::Print(const char &)': cannot convert argument 1 from 'const char [28]' to 'const char &'
+  c:\dev\c++projects\gameengine\haydng\gameengine\src\graphics\window.cpp(19): note: Reason: cannot convert from 'const char [28]' to 'const char'
+  c:\dev\c++projects\gameengine\haydng\gameengine\src\graphics\window.cpp(19): note: There is no context in which this conversion is possible
+c:\dev\c++projects\gameengine\haydng\gameengine\src\graphics\window.cpp(26): error C2664: 'void HayEngine::Print(const char &)': cannot convert argument 1 from 'const char [24]' to 'const char &'
+  c:\dev\c++projects\gameengine\haydng\gameengine\src\graphics\window.cpp(26): note: Reason: cannot convert from 'const char [24]' to 'const char'
+  c:\dev\c++projects\gameengine\haydng\gameengine\src\graphics\window.cpp(26): note: There is no context in which this conversion is possible
+  main.cpp
+c:\dev\c++projects\gameengine\haydng\gameengine\main.cpp(8): error C2664: 'void HayEngine::Print(const char &)': cannot convert argument 1 from 'const char [6]' to 'const char &'
+  c:\dev\c++projects\gameengine\haydng\gameengine\main.cpp(8): note: Reason: cannot convert from 'const char [6]' to 'const char'
+  c:\dev\c++projects\gameengine\haydng\gameengine\main.cpp(8): note: There is no context in which this conversion is possible
+  Generating Code...
